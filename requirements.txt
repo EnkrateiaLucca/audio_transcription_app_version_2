@@ -1,0 +1,2 @@
+gradio==3.22.1
+whisper==1.0
